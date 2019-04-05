@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1513975062 source:c:\users\ahmad\documents\codes\dots & boxes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<windows.h>
+	<math.h>
+	<time.h>
+
+1513974951 source:c:\users\ahmad\documents\codes\dots & boxes\icon.rc
+
+1513974951 source:c:\users\ahmed\desktop\project_{6}_v{2}\the project\icon.rc
+
+1513978888 source:c:\users\ahmed\desktop\project_{6}_v{2}\the project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<windows.h>
+	<math.h>
+	<time.h>
+
